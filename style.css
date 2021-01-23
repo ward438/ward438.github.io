@@ -1,0 +1,19 @@
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  font-size: 150%;
+}
+h2 {
+  color: black;
+  font-size: 100%;
+  background-color: oldlace;
+}
+
+a:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+p.inset {
+  border-style: inset;
+}
